@@ -1,0 +1,31 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html {
+    min-height: 100vh; 
+    /* background: url(mobile-menu.jpg) no-repeat left top; */
+    /* background: url(/mobile-design.jpg) no-repeat left top; */
+    /* background: url(/desktop-design.jpg) no-repeat top; */
+}
+body {
+    opacity: 1;
+    
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style:  none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.attribution { font-size: 11px; text-align: center; color: hsl(0, 0%, 38%); }
+.attribution a { color: hsl(0, 0%, 58%); }
